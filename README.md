@@ -1,5 +1,4 @@
 # Data_cleaning_in_sql
-Sure, here is a README for the COVID-19 dataset:
 
 Introduction
 
